@@ -42,7 +42,7 @@ N
 O
 P - PHP or Perl (still deciding)
 Q
-R - Rust or Ruby (still deciding)
+R - Rust (completed)
 S
 T - Typescript (Planned)
 U
@@ -53,6 +53,12 @@ Y
 Z
 
 ## What do I think of each language
+
+### Disclaimer
+
+These are my personal opinions from trying to implement just this program. There will definitely be a bent towards how quick it is to pick up to get something completed as compared to learning it to 100% correctly
+
+All solutions here may not be idiomatic code, and I am happy to take suggestions on improvements
 
 ### Rust
 
