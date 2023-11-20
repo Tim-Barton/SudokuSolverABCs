@@ -54,3 +54,12 @@ Z
 
 ## What do I think of each language
 
+### Rust
+
+I realise that Rust has a high developer satisfaction rating in those people using Rust, love Rust - but I am not one of them.
+
+Pointing out that most of my experience is C++, and if I'd been coming straight from there I think I'd like it more, but compared to Golang where I've spent my most recent time, it's a drag.
+
+There's simple little niggly things like having to remember semi-colons for every line, but the real killer for me is the borrowing model for memory as there are some objectively understandable edges that subjectively make it personally unpleasant to work with.
+
+Also if an array instantiation could take a contructor function for creating a default object rather than needing to copy a single object, that'd be great.
