@@ -1,0 +1,6 @@
+project SudokuSolver is
+
+   for Main use ("main.adb");
+   for Source_Dirs use ("src");
+
+end SudokuSolver;

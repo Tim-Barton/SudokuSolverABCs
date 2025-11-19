@@ -1,3 +1,5 @@
 gprbuild --subdirs=build main.adb
-
-./build/main
+if [ $? -eq 0 ]
+then
+    ./build/main datafile.csv
+fi
